@@ -30,7 +30,7 @@ p {
 
 .btn {
   display: inline-block;
-  background: #333;
+  background: rgb(38, 138, 168);
   color: #fff;
   text-decoration: none;
   padding: 1em 2em;
@@ -40,7 +40,7 @@ p {
 
 .btn:hover {
   background: #eaeaea;
-  color: #333;
+  color: rgb(128, 35, 35);
 }
 
 
@@ -55,7 +55,7 @@ p {
   #showcase .bg-image {
     position: absolute;
     background: #333
-      url('https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?cs=srgb&dl=pexels-andrea-piacquadio-3769138.jpg&fm=jpg');
+      url('https://images.pexels.com/photos/3769138/pexels-photo-3769138.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
