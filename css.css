@@ -108,9 +108,14 @@ p {
   /* Section C */
   
   #section-c {
-    background: #fff;
-    color: #333;
+    
+    background: rgb(218, 218, 218);
+    color: rgb(0, 0, 0);
     padding: 2em;
+    background-image:url(https://images.pexels.com/photos/3428278/pexels-photo-3428278.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260);
+    background-size:cover;
+    
+    
   }
   
   /* Section D / Boxes */
